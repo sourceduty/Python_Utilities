@@ -1,6 +1,4 @@
-# Python_Utilities
-🛠️ A collection of Python tools recommended by Sourceduty.
-#
+
 [Google Link Grabber](https://github.com/itslucifero/Google-Link-Grabber)
 <br />
 [Automated Google Search](https://github.com/frzmohammadali/automate-google-search-script)
