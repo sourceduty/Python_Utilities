@@ -1,4 +1,4 @@
-![Glitchy Lambo](https://github.com/sourceduty/Python_Utilities/assets/123030236/f5ed0496-2637-469d-b974-f6a1e4ec2548)
+![Python Effects](https://github.com/sourceduty/Python_Utilities/assets/123030236/5598acb3-bacc-4957-a4ec-fdc3eaf5f4e8)
 
 [Glitch This](https://github.com/TotallyNotChase/glitch-this)
 <br>
