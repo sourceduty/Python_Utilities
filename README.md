@@ -1,5 +1,14 @@
 ![Python Effects](https://github.com/sourceduty/Python_Utilities/assets/123030236/5598acb3-bacc-4957-a4ec-fdc3eaf5f4e8)
 
+> A repo of Python tools and codes.
+
+#
+
+Python utilities are a collection of built-in functions and modules that simplify common programming tasks, enabling developers to work more efficiently. These utilities cover a wide range of functionalities, including file handling, data manipulation, mathematical operations, and system interactions. For instance, the os module provides tools for interacting with the operating system, while math and random modules offer mathematical computations and random number generation, respectively. Additionally, Python's standard library includes powerful utilities for working with dates and times (datetime), parsing command-line arguments (argparse), and managing collections of data (collections). These utilities are essential for writing clean, maintainable, and efficient code in Python.
+
+#
+### Related Links
+
 [Glitch This](https://github.com/TotallyNotChase/glitch-this)
 <br>
 [Google Link Grabber](https://github.com/itslucifero/Google-Link-Grabber)
@@ -21,3 +30,6 @@
 [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
 <br />
 [ChatGPT](https://chat.openai.com/)
+
+***
+Copyright (C) 2024, Sourceduty - All Rights Reserved.
