@@ -1,3 +1,5 @@
+# AI won't explain this code to you.
+
 nodes = ['Alex ', "didn't ", 'study ', 'Python', '.']
 expression = ''.join(nodes)
 
