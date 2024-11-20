@@ -1,0 +1,8 @@
+| Term        | Definition                                                                 | Abstraction Layer               |
+|-------------|-----------------------------------------------------------------------------|---------------------------------|
+| Code        | A general term that refers to any written instructions in Python (or any other programming language) that are interpreted or compiled to execute a task. | Basic-level: Fundamental instructions |
+| Script      | A file containing Python code designed to be executed directly. A script can call functions, execute commands, and is usually intended for small tasks or automation. | Application-level: Single use case |
+| Module      | A single file containing Python code (usually with a .py extension) that can be imported and reused in other programs. It can include functions, classes, and variables. | Low-level: Basic functionality  |
+| Package     | A collection of related modules bundled together in a directory, often containing an __init__.py file. Packages provide a way to structure larger applications. | Mid-level: Group of modules     |
+| Library     | A collection of pre-written modules and packages that provide useful functions and tools to avoid reinventing the wheel (e.g., NumPy, Pandas). Libraries can contain multiple modules. | High-level: Set of modules & tools |
+| Program     | A complete set of code, usually a combination of modules, libraries, scripts, and functions, that performs a specific task or solves a problem when executed. | High-level: Full software solution |
