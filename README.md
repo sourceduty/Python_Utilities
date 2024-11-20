@@ -7,6 +7,8 @@
 Python utilities are a collection of built-in functions and modules that simplify common programming tasks, enabling developers to work more efficiently. These utilities cover a wide range of functionalities, including file handling, data manipulation, mathematical operations, and system interactions. For instance, the os module provides tools for interacting with the operating system, while math and random modules offer mathematical computations and random number generation, respectively. Additionally, Python's standard library includes powerful utilities for working with dates and times (datetime), parsing command-line arguments (argparse), and managing collections of data (collections). These utilities are essential for writing clean, maintainable, and efficient code in Python.
 
 ```
+# AI won't explain this code to you.
+
 nodes = ['Alex ', "didn't ", 'study ', 'Python', '.']
 expression = ''.join(nodes)
 
