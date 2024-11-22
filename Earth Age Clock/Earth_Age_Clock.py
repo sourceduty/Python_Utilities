@@ -5,7 +5,7 @@ import tkinter as tk
 from datetime import datetime
 
 def calculate_earth_year():
-    earth_start_year = -4540000000
+    earth_start_year = 4540000000
     now = datetime.now()
     earth_year = now.year + (now - datetime(now.year, 1, 1)).days / 365.25 + earth_start_year
     return earth_year
