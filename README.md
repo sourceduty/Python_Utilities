@@ -41,24 +41,26 @@ This calculator GUI, built using Python's Tkinter library, reflects a minimalist
 [Glitch This](https://github.com/TotallyNotChase/glitch-this)
 <br>
 [Google Link Grabber](https://github.com/itslucifero/Google-Link-Grabber)
-<br />
+<br>
 [Automated Google Search](https://github.com/frzmohammadali/automate-google-search-script)
-<br />
+<br>
 [Retropie - Le Potato](https://github.com/sourceduty/Retropie_Le_Potato)
-<br />
+<br>
 [Python to .exe](https://github.com/xtekky/python-to-exe)
-<br />
+<br>
 [Tweet Screenshots](https://github.com/pwnfoo/fakemenot)
-<br />
+<br>
 [YouTube Converter](https://github.com/diegorosa/YouTube-to-MP3-Converter-API)
-<br />
+<br>
 [Metadata Extractor](https://github.com/ellman12/DateTakenExtractor)
-<br />
+<br>
 [Python Projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects)
-<br />
+<br>
 [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
-<br />
+<br>
 [ChatGPT](https://chat.openai.com/)
+<br>
+[Uptime Clock](https://github.com/sourceduty/Uptime_Clock)
 
 #
 
